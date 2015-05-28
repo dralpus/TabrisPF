@@ -32,16 +32,15 @@
 	<gap:plugin name="com.phonegap.plugin.statusbar" version="1.1.0" />
 	<gap:plugin name="org.apache.cordova.media-capture" />
 	<gap:plugin name="org.apache.cordova.splashscreen" />
-	<preference name="StatusBarOverlaysWebView" value="false" />
-	<preference name="StatusBarBackgroundColor" value="#135F91" />
-	<gap:plugin name="com.phonegap.plugins.childbrowser" version="5.0.0" />
 	<gap:plugin name="com.sharinglabs.cordova.plugin.cache" version="1.0.0" />
 	<gap:plugin name="tr.bel.mamak.sms_plagin" version="0.1.0" />
 	<gap:plugin name="de.appplant.cordova.plugin.email-composer" version="0.8.1" />
-	
-	
 	<gap:plugin name="com.darktalker.cordova.screenshot" version="0.1.0" />
 	<gap:plugin name="org.apache.cordova.device-motion" version="0.2.10" />
+<!--	<gap:plugin name="com.phonegap.plugins.childbrowser" version="5.0.0" /> -->
+	
+	<preference name="StatusBarOverlaysWebView" value="false" />
+	<preference name="StatusBarBackgroundColor" value="#135F91" />
 	
 	<preference name="orientation" value="portrait" />
 	<preference name="DisallowOverscroll" value="true"/>
