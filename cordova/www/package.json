@@ -1,0 +1,8 @@
+{
+  "name": "Public-Feed",
+  "description": "PublicFeed Tabris.js version",
+  "main": "main.js",
+  "dependencies": {
+    "tabris": "^1.0.0"
+  }
+}
