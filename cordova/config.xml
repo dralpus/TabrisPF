@@ -29,7 +29,6 @@
 	<gap:plugin name="org.apache.cordova.device" />
 	<gap:plugin name="com.phonegap.plugins.pushplugin" />
 	<gap:plugin name="org.apache.cordova.dialogs" />
-	<gap:plugin name="com.phonegap.plugin.statusbar" />
 	<gap:plugin name="org.apache.cordova.media-capture" />
 	<gap:plugin name="org.apache.cordova.splashscreen" />
 	<gap:plugin name="com.sharinglabs.cordova.plugin.cache" />
@@ -37,6 +36,7 @@
 	<gap:plugin name="de.appplant.cordova.plugin.email-composer" />
 	<gap:plugin name="com.darktalker.cordova.screenshot"  />
 	<gap:plugin name="org.apache.cordova.device-motion"  />
+<!--	<gap:plugin name="com.phonegap.plugin.statusbar" /> -->
 <!--	<gap:plugin name="com.phonegap.plugins.childbrowser" version="5.0.0" /> -->
 	
 	<preference name="StatusBarOverlaysWebView" value="false" />
