@@ -2,11 +2,11 @@
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "com.publicfeed.ios"
-        versionCode = "17" 
-        version     = "1.4.4" >
+        versionCode = "18" 
+        version     = "1.4.5" >
 
     <!-- versionCode is optional and Android only -->
-    <name>Public Feed</name>
+    <name>Public-Feed</name>
 	<description>Public Feed - Individual news for public opinion.</description>
     <author href="http://www.publicfeed.com/" email="info@publicfeed.com">Orhun Alp Oral</author>
 	<gap:plugin name="com.phonegap.plugins.facebookconnect" version="0.9.0">
