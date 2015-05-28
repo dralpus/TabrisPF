@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.publicfeed.mobile"
+        versionCode = "16" 
+        version     = "1.4.3" >
+
+    <!-- versionCode is optional and Android only -->
+    <name>Public Feed</name>
+	<description>Public Feed - Individual news for public opinion.</description>
+    <author href="http://www.publicfeed.com/" email="info@publicfeed.com">Orhun Alp Oral</author>
+	<gap:plugin name="com.phonegap.plugins.facebookconnect" version="0.9.0">
+		<param name="APP_ID" value="740351142726539" />
+		<param name="APP_NAME" value="Public Feed" />
+	</gap:plugin>
+	<gap:plugin name="org.apache.cordova.globalization" version="0.3.1" />
+	<gap:plugin name="com.ccsoft.plugin.cordovafacebook" source="plugins.cordova.io" version="1.1.0" />
+	<gap:plugin name="com.chariotsolutions.cordova.plugin.keyboard_toolbar_remover" version="0.0.2" />
+	<gap:plugin name="com.ionic.keyboard" version="1.0.3" />
+	<gap:plugin name="com.verso.cordova.clipboard" version="0.1.0" />
+	<gap:plugin name="nl.x-services.plugins.socialsharing" version="4.3.8" />
+	<gap:plugin name="com.sebible.cordova.videosnapshot" version="0.2.8" />
+	<gap:plugin name="org.apache.cordova.geolocation" version="0.3.10" />
+	<gap:plugin name="org.apache.cordova.contacts" />
+	<gap:plugin name="org.apache.cordova.network-information" version="0.2.12" />
+	<gap:plugin name="org.apache.cordova.camera" />
+	<gap:plugin name="org.apache.cordova.file-transfer" version="0.4.6" />
+	<gap:plugin name="org.apache.cordova.media" />
+	<gap:plugin name="org.apache.cordova.device" />
+	<gap:plugin name="com.phonegap.plugins.pushplugin" version="2.4.0" />
+	<gap:plugin name="org.apache.cordova.dialogs" version="0.2.10" />
+	<gap:plugin name="com.phonegap.plugin.statusbar" version="1.1.0" />
+	<gap:plugin name="org.apache.cordova.media-capture" />
+	<gap:plugin name="org.apache.cordova.splashscreen" />
+	<preference name="StatusBarOverlaysWebView" value="false" />
+	<preference name="StatusBarBackgroundColor" value="#135F91" />
+	<gap:plugin name="com.phonegap.plugins.childbrowser" version="5.0.0" />
+	<gap:plugin name="com.sharinglabs.cordova.plugin.cache" version="1.0.0" />
+	<gap:plugin name="tr.bel.mamak.sms_plagin" version="0.1.0" />
+	<gap:plugin name="de.appplant.cordova.plugin.email-composer" version="0.8.1" />
+	
+	
+	<gap:plugin name="com.darktalker.cordova.screenshot" version="0.1.0" />
+	<gap:plugin name="org.apache.cordova.device-motion" version="0.2.10" />
+	
+	<preference name="orientation" value="portrait" />
+	<preference name="DisallowOverscroll" value="true"/>
+	<preference name="BackupWebStorage" value="none" />
+	<preference name="KeyboardShrinksView" value="true" />
+	<preference name="HideKeyboardFormAccessoryBar" value="true"/>
+	<access origin="*" />
+	<!-- iOS 8.0+ -->
+	<!-- iPhone 6 Plus  -->
+	<icon gap:platform="ios" src="res/ios/Icon-60@3x.png" width="180" height="180" />
+	<!-- iOS 7.0+ -->
+	<!-- iPhone / iPod Touch  -->
+	<icon gap:platform="ios" src="res/ios/Icon-60.png" width="60" height="60" />
+	<icon gap:platform="ios" src="res/ios/Icon-60@2x.png" width="120" height="120" />
+	<!-- iPad -->
+	<icon gap:platform="ios" src="res/ios/Icon-76.png" width="76" height="76" />
+	<icon gap:platform="ios" src="res/ios/Icon-76@2x.png" width="152" height="152" />
+	<!-- iOS 6.1 -->
+	<!-- Spotlight Icon -->
+	<icon gap:platform="ios" src="res/ios/Icon-40.png" width="40" height="40" />
+	<icon gap:platform="ios" src="res/ios/Icon-40@2x.png" width="80" height="80" />
+	<!-- iPhone / iPod Touch -->
+	<icon gap:platform="ios" src="res/ios/Icon.png" width="57" height="57" />
+	<icon gap:platform="ios" src="res/ios/Icon@2x.png" width="114" height="114" />
+	<!-- iPad -->
+	<icon gap:platform="ios" src="res/ios/Icon-72.png" width="72" height="72" />
+	<icon gap:platform="ios" src="res/ios/Icon-72@2x.png" width="144" height="144" />
+	<!-- iPhone Spotlight and Settings Icon -->
+	<icon gap:platform="ios" src="res/ios/Icon-small.png" width="29" height="29" />
+	<icon gap:platform="ios" src="res/ios/Icon-small@2x.png" width="58" height="58" />
+	<!-- iPad Spotlight and Settings Icon -->
+	<icon gap:platform="ios" src="res/ios/Icon-50.png" width="50" height="50" />
+	<icon gap:platform="ios" src="res/ios/Icon-50@2x.png" width="100" height="100" />
+	
+	<gap:splash gap:platform="ios" src="res/screen/ios/Default~iphone.png" width="320" height="480"/>
+	<gap:splash gap:platform="ios" src="res/screen/ios/Default@2x~iphone.png" width="640" height="960"/>
+	<gap:splash gap:platform="ios" src="res/screen/ios/Default-667h.png" width="750" height="1334"/>
+	<gap:splash gap:platform="ios" src="res/screen/ios/Default-736h.png" width="1242" height="2208"/>
+	<gap:splash gap:platform="ios" src="res/screen/ios/Default-568h@2x~iphone.png" width="640" height="1136"/>
+	
+	
+	
+</widget>
