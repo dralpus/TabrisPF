@@ -14,29 +14,29 @@
 		<param name="APP_NAME" value="Public Feed" />
 	</gap:plugin>
 	<gap:plugin name="org.apache.cordova.globalization" version="0.3.1" />
-	<gap:plugin name="com.ccsoft.plugin.cordovafacebook" source="plugins.cordova.io" version="1.1.0" />
-	<gap:plugin name="com.chariotsolutions.cordova.plugin.keyboard_toolbar_remover" version="0.0.2" />
-	<gap:plugin name="com.ionic.keyboard" version="1.0.3" />
-	<gap:plugin name="com.verso.cordova.clipboard" version="0.1.0" />
-	<gap:plugin name="nl.x-services.plugins.socialsharing" version="4.3.8" />
-	<gap:plugin name="com.sebible.cordova.videosnapshot" version="0.2.8" />
-	<gap:plugin name="org.apache.cordova.geolocation" version="0.3.10" />
+	<gap:plugin name="com.ccsoft.plugin.cordovafacebook" source="plugins.cordova.io" />
+	<gap:plugin name="com.chariotsolutions.cordova.plugin.keyboard_toolbar_remover" />
+	<gap:plugin name="com.ionic.keyboard" />
+	<gap:plugin name="com.verso.cordova.clipboard" />
+	<gap:plugin name="nl.x-services.plugins.socialsharing"  />
+	<gap:plugin name="com.sebible.cordova.videosnapshot"  />
+	<gap:plugin name="org.apache.cordova.geolocation"  />
 	<gap:plugin name="org.apache.cordova.contacts" />
-	<gap:plugin name="org.apache.cordova.network-information" version="0.2.12" />
+	<gap:plugin name="org.apache.cordova.network-information"  />
 	<gap:plugin name="org.apache.cordova.camera" />
-	<gap:plugin name="org.apache.cordova.file-transfer" version="0.4.6" />
+	<gap:plugin name="org.apache.cordova.file-transfer" />
 	<gap:plugin name="org.apache.cordova.media" />
 	<gap:plugin name="org.apache.cordova.device" />
-	<gap:plugin name="com.phonegap.plugins.pushplugin" version="2.4.0" />
-	<gap:plugin name="org.apache.cordova.dialogs" version="0.2.10" />
-	<gap:plugin name="com.phonegap.plugin.statusbar" version="1.1.0" />
+	<gap:plugin name="com.phonegap.plugins.pushplugin" />
+	<gap:plugin name="org.apache.cordova.dialogs" />
+	<gap:plugin name="com.phonegap.plugin.statusbar" />
 	<gap:plugin name="org.apache.cordova.media-capture" />
 	<gap:plugin name="org.apache.cordova.splashscreen" />
-	<gap:plugin name="com.sharinglabs.cordova.plugin.cache" version="1.0.0" />
+	<gap:plugin name="com.sharinglabs.cordova.plugin.cache" />
 	<gap:plugin name="tr.bel.mamak.sms_plagin" version="0.1.0" />
-	<gap:plugin name="de.appplant.cordova.plugin.email-composer" version="0.8.1" />
-	<gap:plugin name="com.darktalker.cordova.screenshot" version="0.1.0" />
-	<gap:plugin name="org.apache.cordova.device-motion" version="0.2.10" />
+	<gap:plugin name="de.appplant.cordova.plugin.email-composer" />
+	<gap:plugin name="com.darktalker.cordova.screenshot"  />
+	<gap:plugin name="org.apache.cordova.device-motion"  />
 <!--	<gap:plugin name="com.phonegap.plugins.childbrowser" version="5.0.0" /> -->
 	
 	<preference name="StatusBarOverlaysWebView" value="false" />
