@@ -2,8 +2,8 @@
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "com.publicfeed.ios"
-        versionCode = "16" 
-        version     = "1.4.3" >
+        versionCode = "17" 
+        version     = "1.4.4" >
 
     <!-- versionCode is optional and Android only -->
     <name>Public Feed</name>
