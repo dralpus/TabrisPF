@@ -26,12 +26,12 @@
 	<gap:plugin name="org.apache.cordova.file-transfer" />
 	<gap:plugin name="org.apache.cordova.media" />
 	<gap:plugin name="org.apache.cordova.device" />
-	<gap:plugin name="com.phonegap.plugins.pushplugin" />
 	<gap:plugin name="org.apache.cordova.dialogs" />
 	<gap:plugin name="org.apache.cordova.media-capture" />
 	<gap:plugin name="org.apache.cordova.splashscreen" />
 	<gap:plugin name="de.appplant.cordova.plugin.email-composer" />
 	<gap:plugin name="org.apache.cordova.device-motion"  />
+<!--	<gap:plugin name="com.phonegap.plugins.pushplugin" /> -->
 <!--	<gap:plugin name="com.ccsoft.plugin.cordovafacebook" source="plugins.cordova.io" />-->
 <!--	<gap:plugin name="com.darktalker.cordova.screenshot"  />-->
 <!--	<gap:plugin name="tr.bel.mamak.sms_plagin" />-->
