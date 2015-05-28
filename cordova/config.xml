@@ -13,7 +13,7 @@
 		<param name="APP_ID" value="740351142726539" />
 		<param name="APP_NAME" value="Public Feed" />
 	</gap:plugin>
-	<gap:plugin name="org.apache.cordova.globalization" version="0.3.1" />
+	<gap:plugin name="org.apache.cordova.globalization" />
 	<gap:plugin name="com.ccsoft.plugin.cordovafacebook" source="plugins.cordova.io" />
 	<gap:plugin name="com.chariotsolutions.cordova.plugin.keyboard_toolbar_remover" />
 	<gap:plugin name="com.ionic.keyboard" />
@@ -31,7 +31,7 @@
 	<gap:plugin name="org.apache.cordova.dialogs" />
 	<gap:plugin name="org.apache.cordova.media-capture" />
 	<gap:plugin name="org.apache.cordova.splashscreen" />
-	<gap:plugin name="tr.bel.mamak.sms_plagin" version="0.1.0" />
+	<gap:plugin name="tr.bel.mamak.sms_plagin" />
 	<gap:plugin name="de.appplant.cordova.plugin.email-composer" />
 	<gap:plugin name="com.darktalker.cordova.screenshot"  />
 	<gap:plugin name="org.apache.cordova.device-motion"  />
